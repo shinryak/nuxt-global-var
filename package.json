@@ -20,10 +20,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/minhchi3103/nuxt-global-var.git"
+    "url": "git+https://github.com/shinryak/nuxt-global-var.git"
   },
   "bugs": {
-    "url": "https://github.com/minhchi3103/nuxt-global-var/issues"
+    "url": "https://github.com/shinryak/nuxt-global-var/issues"
   },
-  "homepage": "https://github.com/minhchi3103/nuxt-global-var#readme"
+  "homepage": "https://github.com/shinryak/nuxt-global-var#readme"
 }
